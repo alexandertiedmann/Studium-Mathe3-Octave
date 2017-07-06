@@ -21,8 +21,8 @@ endfunction
   % Verteilungsfunktion F(x) ist eine Stammfunktion der Dichtefunktion f(x)
   % d.h. F'(x) = f1(x)
   % Rechenweg siehe Zettel
-  F=C*(-1/3.*(9-x).^3);
-  disp("F=C*(-1/3.*(9-x).^3)")
+  F=C*(((x.^3)/3)-9*x.^2+81.*x);
+  disp("C*(((x.^3)/3)-9*x.^2+81.*x)")
   f1=C*(9-x).^2;
   disp("c) Siehe Graphen")
   figure(1)

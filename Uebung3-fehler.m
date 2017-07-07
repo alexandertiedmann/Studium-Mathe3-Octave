@@ -1,3 +1,6 @@
+% ---------- Uebung 3 -----------
+% s0556469 Laila Westphal
+% s0556127 Alexander Tiedmann
 % am 05.05.2017
 
 %---------------Vorbereitung---------------

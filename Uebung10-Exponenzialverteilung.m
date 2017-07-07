@@ -1,3 +1,6 @@
+% ---------- Uebung 10 -----------
+% s0556469 Laila Westphal
+% s0556127 Alexander Tiedmann
 % am 07/07/2017
 % ---------- Vorbereitung ----------
 clc

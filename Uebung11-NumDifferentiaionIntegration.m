@@ -199,7 +199,7 @@ integrate('f4',-1,0)
 printf("\n5) j(x) =(1-exp(-x))/x), [1,2] \n")
 %f(x) = ( 1 – e^-x) / x, von 1 bis 2
 function y=f5(x)
-  y=1-e.^-x;
+  y=(1-e.^-x)/x;
 end
 integrate('f5',1,2)
 
